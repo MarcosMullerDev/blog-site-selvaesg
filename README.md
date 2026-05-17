@@ -71,12 +71,6 @@ storage/
 
 # Configuração Local
 
-## Clonar projeto
-
-```bash
-git clone https://github.com/MarcosMullerDev/blog-site-selvaesg.git
-```
-
 ---
 
 ## Instalar dependências
